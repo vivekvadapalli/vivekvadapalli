@@ -41,3 +41,4 @@ You can click the Preview link to take a look at your changes.
 <img height="35" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">&nbsp;
