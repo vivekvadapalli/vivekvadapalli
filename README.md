@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Krish Vivek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://twitter.com/prasadbobby_">
-  <img align="left" alt="prasadbobby's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/KrishVadapalli">
+  <img align="left" alt="vivekvadapalli's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="mailto:knvdurgaprasad610@gmail.com">
