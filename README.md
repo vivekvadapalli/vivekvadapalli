@@ -2,7 +2,7 @@
 vivekvadapalli/vivekvadapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**$ Hellooo,** **Gits** 👋 **call me [Vivekvadapalli](www.google.com/search?q=vivek+vadapalli&rlz=1C1CHBD_enIN923IN923&oq=vivek+vadapalli&aqs=chrome.0.69i59j0i13j0i8i13i30j69i60l3.4339j0j7&sourceid=chrome&ie=UTF-8)**</br>
+**$ Hellooo,** **Gits** 👋 **call me [Vivekvadapalli](google.com/search?q=vivek+vadapalli&rlz=1C1CHBD_enIN923IN923&oq=vivek+vadapalli&aqs=chrome.0.69i59j0i13j0i8i13i30j69i60l3.4339j0j7&sourceid=chrome&ie=UTF-8)**</br>
  **Pursuing Bachelor of Technology(B.Tech) 📚 | Electronics and Commuication Engineering 💡 | Technology Lover ⚡</br>**
 
 <a href="https://www.linkedin.com/in/vivekvadapalli/">
