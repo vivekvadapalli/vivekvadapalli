@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="vivekvadapalli's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:knvdurgaprasad610@gmail.com">
-  <img align="left" alt="shanmuk's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:krish.vivek2001@gmail.com">
+  <img align="left" alt="vivekvadapalli's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
 
 <br>
