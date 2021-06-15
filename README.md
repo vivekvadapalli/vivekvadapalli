@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="vivekvadapall's  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.facebook.com/KrishVivek">
+<a href="https://en-gb.facebook.com/people/Krish-Vivek/100007539558592/">
   <img align="left" alt="Krish Vivek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
