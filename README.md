@@ -35,28 +35,9 @@ You can click the Preview link to take a look at your changes.
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">&nbsp;
-<img height="35" src="https://img.icons8.com/ios-filled/50/000000/django.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
-<img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Google_Assistant_logo.svg">
-<img  height="35" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png">
-<img height="35" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/autodesk-maya.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/blender-3d.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
 <img height="35" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">
-
-
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vivekvadapalli&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=vivekvadapalli&theme=radical&show_icons=true)
-<br/>
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvadapalli&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvadapalli&theme=radical&layout=compact)
