@@ -3,7 +3,7 @@ vivekvadapalli/vivekvadapalli is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 **$ Hellooo,** **Gits** 👋 **call me [Vivekvadapalli](https://www.google.com/search?sxsrf=ALeKk0138mQmoNaDSBoDlcY4-9e7QILtNw%3A1609695072770&ei=YP_xX5vNLryU4-EPvZaMsAo&q=vivekvadapalli&oq=pr&gs_lcp=CgZwc3ktYWIQAxgBMgQIIxAnMgQIIxAnMgQIIxAnMgcILhDJAxBDMgUIABCRAjIFCAAQkQIyBAguEEMyBAguEEMyBQgAELEDMgIIADoICAAQyQMQkQI6CAgAELEDEIMBOgUILhCxA1CiFFj6F2CWJGgAcAB4AIAB5AGIAaoDkgEFMC4xLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab)**</br>
- **Pursuing Bachelor of Technology(B.Tech) 📚 | Electronics and Commuication Engineering 💡 | Technology Lover ⚡</br>**
+ ** Bachelor of Technology(B.Tech) 📚 | Electronics and Commuication Engineering 💡 | Technology Lover ⚡</br>**
 
 <a href="https://www.linkedin.com/in/vivekvadapalli/">
   <img align="left" alt="vivekvadapalli's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
